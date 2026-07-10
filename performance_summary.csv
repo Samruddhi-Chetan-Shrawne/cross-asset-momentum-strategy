@@ -1,0 +1,10 @@
+Metric,Strategy v8,Equal-Weight,60/40 SPY-AGG,Inverse Momentum
+Total Return,142.53%,106.10%,234.60%,42.40%
+Ann. Return,6.89%,5.59%,9.51%,2.70%
+Ann. Volatility,8.72%,7.88%,10.11%,7.71%
+Sharpe,0.79,0.71,0.94,0.35
+Sortino,0.99,0.90,1.18,0.51
+Max Drawdown,-13.14%,-17.10%,-21.30%,-26.80%
+Calmar,0.52,0.33,0.45,0.10
+Win Rate,59.20%,56.70%,59.30%,51.70%
+Momentum Spread,+100.13%,,,
