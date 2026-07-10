@@ -1,0 +1,30 @@
+# Generated data files — run the notebook to regenerate
+*.csv
+!results/performance_summary.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter/
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large outputs
+*.png
+!results/*.png
